@@ -1,0 +1,8 @@
+### Module positions - created on Wed Apr  6 18:13:14 2022 ###
+### Printed by Pcbnew version (6.0.4)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val        Package                PosX       PosY       Rot  Side
+JP2       Header_18  HDR1X18_1          -76.3270  -101.6000  180.0000  bottom
+JP3       Header_18  HDR1X18_1          -76.3270   -78.8670  180.0000  bottom
+## End
