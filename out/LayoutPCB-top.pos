@@ -1,40 +1,48 @@
-### Module positions - created on Wed Apr  6 18:13:14 2022 ###
+### Module positions - created on Thu Apr  7 12:48:39 2022 ###
 ### Printed by Pcbnew version (6.0.4)
 ## Unit = mm, Angle = deg.
 ## Side : top
-# Ref                 Val                            Package                                                  PosX       PosY       Rot  Side
-                                                                                                          118.9990   -83.2866    0.0000  top
-                                                                                                          118.9990   -97.2820    0.0000  top
-                                                                                                           89.7890   -97.2820    0.0000  top
-                                                                                                           89.7890   -83.2866    0.0000  top
-C1                    0.1uF                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder           76.4073   -69.7690    0.0000  top
-C2                    10uF                           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder           84.5198   -64.4815  -90.0000  top
-C3                    0.1uF                          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder           86.9448   -64.5565  -90.0000  top
-Capacitor_            220nF                          C_Rect_L11.5mm_W4.3mm_P10.00mm_MKT                   114.8400   -69.8500    0.0000  top
-Capacitor_            680nF                          C_Rect_L11.5mm_W4.3mm_P10.00mm_MKT                   113.1100   -49.5300    0.0000  top
-D1                    RED                            LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder         74.1948   -60.7690  180.0000  top
-D2                    GREEN                          LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder         74.1948   -57.8190  180.0000  top
-Inductor              33uF                           L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1   115.5700   -59.6900  -90.0000  top
-J1                    USB_B_Micro                    tp4056_USB_Micro-B_Molex_47346-0001_fix               69.1973   -64.8190  -90.0000  top
-J2                    Conn_01x01_Female              PinSocket_1x01_P2.54mm_Vertical                       69.1448   -71.5190    0.0000  top
-J3                    Conn_01x01_Female              PinSocket_1x01_P2.54mm_Vertical                       68.7448   -58.2190    0.0000  top
-J4                    Conn_01x01_Female              PinSocket_1x01_P2.54mm_Vertical                      104.4448   -67.0190    0.0000  top
-J5                    Conn_01x01_Female              PinSocket_1x01_P2.54mm_Vertical                      104.1948   -71.2690    0.0000  top
-J6                    Conn_01x01_Female              PinSocket_1x01_P2.54mm_Vertical                      104.6948   -57.0190    0.0000  top
-J7                    Conn_01x01_Female              PinSocket_1x01_P2.54mm_Vertical                      104.6948   -61.7690    0.0000  top
-R1                    1k                             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder           77.9448   -59.5190    0.0000  top
-R2                    1k                             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder           78.6948   -57.7690    0.0000  top
-R3                    10k                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder           81.9448   -70.5190    0.0000  top
-R4                    1k                             R_0603_1608Metric_Pad0.98x0.95mm_HandSolder           96.6948   -64.7690  180.0000  top
-R5                    100                            R_0805_2012Metric_Pad1.20x1.40mm_HandSolder           85.6948   -60.0190  -90.0000  top
-R6                    0R                             R_1206_3216Metric_Pad1.30x1.75mm_HandSolder           97.6948   -67.5190  180.0000  top
-REF**                 Aosong_DHT11_5.5x12.0_P2.54mm  Aosong_DHT11_5.5x12.0_P2.54mm                         83.9175   -39.2725  -90.0000  top
-REF**                 Bateria_18650                  BatteryHolder_MPD_BH-18650-PC2                       130.3483  -121.5390  180.0000  top
-REF**                 Conector_da_Alimentação      AMASS_XT30U-F_1x02_P5.0mm_Vertical                   133.3500   -80.0100  -90.0000  top
-Regulador_de_Tensao_  LM2596S-5                      TO170P1524X483-6N                                    130.8100   -59.6900    0.0000  top
-S1                    RESET                          TACK_SWITCH_3X4X2_1                                   74.2950   -99.8220    0.0000  top
-S2                    BTN-0                          TACK_SWITCH_3X4X2_1                                   74.2950   -83.6930    0.0000  top
-U1                    TP4056                         SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm               80.4448   -64.3190   90.0000  top
-U2                    DW01                           SOT-23-6_Handsoldering                                92.6948   -61.2690   90.0000  top
-U3                    FS8205A                        SOT-23-6_Handsoldering                                92.4448   -68.0190   90.0000  top
+# Ref                 Val                              Package                                                  PosX       PosY       Rot  Side
+                                                                                                             64.3890   -58.0390    0.0000  top
+                                                                                                             89.7890   -83.2866    0.0000  top
+                                                                                                            118.9990   -83.2866    0.0000  top
+                                                                                                            118.9990   -97.2820    0.0000  top
+                                                                                                             89.7890   -97.2820    0.0000  top
+C1                    0.1uF                            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder           76.4073   -69.7690    0.0000  top
+C2                    10uF                             C_0805_2012Metric_Pad1.18x1.45mm_HandSolder           84.5198   -64.4815  -90.0000  top
+C3                    0.1uF                            C_0805_2012Metric_Pad1.18x1.45mm_HandSolder           86.9448   -64.5565  -90.0000  top
+Capacitor_            220nF                            C_Rect_L11.5mm_W4.3mm_P10.00mm_MKT                   114.8400   -69.8500    0.0000  top
+Capacitor_            680nF                            C_Rect_L11.5mm_W4.3mm_P10.00mm_MKT                   113.1100   -49.5300    0.0000  top
+D1                    RED                              LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder         74.1948   -60.7690  180.0000  top
+D2                    GREEN                            LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder         74.1948   -57.8190  180.0000  top
+Inductor              33uF                             L_Axial_L5.3mm_D2.2mm_P2.54mm_Vertical_Vishay_IM-1   115.5700   -59.6900  -90.0000  top
+J1                    USB_B_Micro                      tp4056_USB_Micro-B_Molex_47346-0001_fix               69.1973   -64.8190  -90.0000  top
+J2                    Conn_01x01_Female                PinSocket_1x01_P2.54mm_Vertical                       69.1448   -71.5190    0.0000  top
+J3                    Conn_01x01_Female                PinSocket_1x01_P2.54mm_Vertical                       68.7448   -58.2190    0.0000  top
+J4                    Conn_01x01_Female                PinSocket_1x01_P2.54mm_Vertical                      104.4448   -67.0190    0.0000  top
+J5                    Conn_01x01_Female                PinSocket_1x01_P2.54mm_Vertical                      104.1948   -71.2690    0.0000  top
+J6                    Conn_01x01_Female                PinSocket_1x01_P2.54mm_Vertical                      104.6948   -57.0190    0.0000  top
+J7                    Conn_01x01_Female                PinSocket_1x01_P2.54mm_Vertical                      104.6948   -61.7690    0.0000  top
+R1                    1k                               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder           77.9448   -59.5190    0.0000  top
+R2                    1k                               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder           78.6948   -57.7690    0.0000  top
+R3                    10k                              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder           81.9448   -70.5190    0.0000  top
+R4                    1k                               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder           96.6948   -64.7690  180.0000  top
+R5                    100                              R_0805_2012Metric_Pad1.20x1.40mm_HandSolder           85.6948   -60.0190  -90.0000  top
+R6                    0R                               R_1206_3216Metric_Pad1.30x1.75mm_HandSolder           97.6948   -67.5190  180.0000  top
+REF**                 PinSocket_1x01_P2.54mm_Vertical  PinSocket_1x01_P2.54mm_Vertical                      108.4580   -61.3410    0.0000  top
+REF**                 PinSocket_1x01_P2.54mm_Vertical  PinSocket_1x01_P2.54mm_Vertical                      108.5850   -66.6750    0.0000  top
+REF**                 PinSocket_1x01_P2.54mm_Vertical  PinSocket_1x01_P2.54mm_Vertical                      108.4580   -71.2470    0.0000  top
+REF**                 PinSocket_1x01_P2.54mm_Vertical  PinSocket_1x01_P2.54mm_Vertical                      108.3310   -57.0230    0.0000  top
+REF**                 PinSocket_1x01_P2.54mm_Vertical  PinSocket_1x01_P2.54mm_Vertical                       65.0240   -71.7550    0.0000  top
+REF**                 PinSocket_1x18_P2.54mm_Vertical  PinSocket_1x18_P2.54mm_Vertical                       76.3270   -78.8670   90.0000  top
+REF**                 PinSocket_1x18_P2.54mm_Vertical  PinSocket_1x18_P2.54mm_Vertical                       76.3270  -101.6000   90.0000  top
+REF**                 Bateria_18650                    BatteryHolder_MPD_BH-18650-PC2                       130.3483  -121.5390  180.0000  top
+REF**                 Conector_da_Alimentação        AMASS_XT30U-F_1x02_P5.0mm_Vertical                   133.3500   -80.0100  -90.0000  top
+REF**                 DHT22                            PinSocket_1x04_P2.54mm_Vertical                       83.9370   -38.8870  -90.0000  top
+Regulador_de_Tensao_  LM2596S-5                        TO170P1524X483-6N                                    130.8100   -59.6900    0.0000  top
+S1                    RESET                            TACK_SWITCH_3X4X2_1                                   74.2950   -99.8220    0.0000  top
+S2                    BTN-0                            TACK_SWITCH_3X4X2_1                                   74.2950   -83.6930    0.0000  top
+U1                    TP4056                           SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm               80.4448   -64.3190   90.0000  top
+U2                    DW01                             SOT-23-6_Handsoldering                                92.6948   -61.2690   90.0000  top
+U3                    FS8205A                          SOT-23-6_Handsoldering                                92.4448   -68.0190   90.0000  top
 ## End
